@@ -1,0 +1,230 @@
+﻿D:\Visual Studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(graphicGL.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  Draw.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(67,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(67,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(81,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(81,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(81,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(81,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(186,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(187,48): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(197,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(198,48): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(270,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(271,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(351,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(352,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(353,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(354,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(366,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(366,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(367,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(367,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(368,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(368,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(369,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(369,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(370,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(370,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(371,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(371,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(372,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(372,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(373,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(373,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(402,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(403,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(404,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(405,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(413,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(413,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(414,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(414,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(415,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(415,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(416,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(416,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(436,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(436,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(437,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(437,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(438,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(438,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(439,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(439,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(443,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(444,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(445,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Draw.cpp(446,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Cut3D.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Matrix4.h(7,1): warning C4005: “PI”: 宏重定义
+D:\大学\大三上\新建文件夹\3\miniGL\Define.h(3): message : 参见“PI”的前一个定义
+  GeoDefine3D.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine3D.h(149,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine3D.cpp(43,49): error C2440: “<function-style-cast>”: 无法从“Vec3”转换为“Vertex3D”
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine3D.cpp(43,49): message : 无构造函数可以接受源类型，或构造函数重载决策不明确
+  Add2D.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(57,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(57,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(68,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(74,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(74,48): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(81,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(90,72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(108,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(109,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(116,134): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(123,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(135,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Add2D.cpp(135,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Matrix4.cpp
+  PolygonCut.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(16,2): warning C4091: “typedef ”: 没有声明变量时忽略“CET”的左侧
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(24,2): warning C4091: “typedef ”: 没有声明变量时忽略“codePixelPoint”的左侧
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(178,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(179,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(184,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(185,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(201,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(202,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(212,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(213,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(233,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(234,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(261,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(262,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(267,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(268,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(283,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(284,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(294,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(295,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(313,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(314,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(339,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(340,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(345,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(346,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(361,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(362,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(372,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(373,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(390,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(391,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(416,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(417,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(422,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(423,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(438,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(439,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(449,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(450,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(469,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(470,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\PolygonCut.cpp(486,70): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  PolylineCut.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  DialogHelper.cpp
+  Editor.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Editor.cpp(57,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Editor.cpp(57,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Editor.cpp(68,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Editor.cpp(68,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  GeometryFactory.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Graphic.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(324,21): warning C4312: “类型强制转换”: 从“unsigned int”转换到更大的“HWND”
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(369,30): warning C4311: “类型强制转换”: 从“HWND”到“unsigned int”的指针截断
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(369,30): warning C4302: “类型强制转换”: 从“HWND”到“unsigned int”截断
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(408,17): warning C4244: “*=”: 从“double”转换到“SHORT”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(409,17): warning C4244: “*=”: 从“double”转换到“SHORT”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(418,27): warning C4244: “=”: 从“double”转换到“SHORT”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(419,28): warning C4244: “=”: 从“double”转换到“SHORT”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(641,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(654,9): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(661,16): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(1125,31): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(1130,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(1174,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(1181,84): warning C4311: “类型强制转换”: 从“HCURSOR”到“long”的指针截断
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(1181,84): warning C4302: “类型强制转换”: 从“HCURSOR”到“long”截断
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(110,13): warning C4244: “参数”: 从“const U”转换到“int”，可能丢失数据
+          with
+          [
+              U=float
+          ]
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(529): message : 查看对正在编译的函数 模板 实例化“void DynamicMatrix<float>::clear<float>(const U &)”的引用
+          with
+          [
+              U=float
+          ]
+D:\大学\大三上\新建文件夹\3\miniGL\Graphic.cpp(529): message : 查看对正在编译的函数 模板 实例化“void DynamicMatrix<float>::clear<float>(const U &)”的引用
+          with
+          [
+              U=float
+          ]
+  LayerImporter.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\3rdParty\gdal\include\cpl_string.h(223,1): warning C4251: “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Mypair”: class“std::_Compressed_pair<std::allocator<char>,std::_String_val<std::_Simple_types<_Elem>>,true>”需要有 dll 接口由 class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的客户端使用
+          with
+          [
+              _Elem=char
+          ]
+D:\Visual Studio\Community\VC\Tools\MSVC\14.33.31629\include\xstring(4939): message : 参见“std::_Compressed_pair<std::allocator<char>,std::_String_val<std::_Simple_types<_Elem>>,true>”的声明
+          with
+          [
+              _Elem=char
+          ]
+  Matrix3.cpp
+  MessageHandler.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\Matrix4.h(7,1): warning C4005: “PI”: 宏重定义
+D:\大学\大三上\新建文件夹\3\miniGL\Define.h(3): message : 参见“PI”的前一个定义
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine3D.h(149,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(537,88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(553,88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(555,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(685,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(698,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(732,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(795,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(795,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(795,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(795,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(798,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(798,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(798,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(798,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(831,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(965,22): warning C4311: “类型强制转换”: 从“HWND”到“unsigned int”的指针截断
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(965,22): warning C4302: “类型强制转换”: 从“HWND”到“unsigned int”截断
+D:\大学\大三上\新建文件夹\3\miniGL\MessageHandler.cpp(974,11): warning C4244: “初始化”: 从“WPARAM”转换到“int”，可能丢失数据
+  miniGL.cpp
+  Selector.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Sta.cpp
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Sta.h
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(264,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大三上\新建文件夹\3\miniGL\GeoDefine.h(292,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Vec3.cpp
+  Vec4.cpp
+  正在生成代码...
+D:\大学\大三上\新建文件夹\3\miniGL\Selector.cpp(25): warning C4172: 返回局部变量或临时变量的地址: a
